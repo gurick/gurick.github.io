@@ -248,7 +248,7 @@ a:hover { color: #225DC8; }
 .contacts .contacts__phone { margin-left: 30px; }
 
 .share-this-please {
-	margin: 0 auto 5px;
+	margin: 0 auto;
 	width: 350px;
 	height: 40px;
 	line-height: 40px;
