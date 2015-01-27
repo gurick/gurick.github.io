@@ -8,7 +8,7 @@
 
 a:link, a:visited,
 a:hover, a:active {
-    color: #000;
+    color: #225DC8;
     text-decoration: none;
 }
 
@@ -257,4 +257,11 @@ a:hover { color: #225DC8; }
 	font-size: 1.29em;
 	text-align: center;
 }
-.share-this-please a, a:hover { color: #fff; }
+
+.share-this-please a { 
+	color: #fff;
+}
+
+.share-this-please a:hover { 
+	color: #fff;
+}
